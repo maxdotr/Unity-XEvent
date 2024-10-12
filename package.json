@@ -1,0 +1,12 @@
+{
+    "name": "com.maxdotr.xevent",
+    "version": "1.0.0",
+    "displayName": "XEvent",
+    "description": "XEvent uses reflection and attributes to manage game events dynamically.",
+    "unity": "2022.1",
+    "author": {
+      "name": "Maxwell Rodgers",
+      "email": "maxdotrodgers@gmail.com",
+      "url": "https://github.com/maxdotr/Unity-XEvent"
+    }
+  }
